@@ -1,0 +1,4 @@
+{
+    "tipo" :"problema vial" , 
+    "descripción" :"la comunidad reporta caída de e bancada en la vía."
+} 
